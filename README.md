@@ -1,2 +1,0 @@
-# logixal-website
-logixal-website
