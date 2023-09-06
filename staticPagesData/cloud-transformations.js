@@ -275,93 +275,65 @@ const staticData = {
           "Welcome to Logixal, where we help enterprises in India maximize their Return on Investment (ROI) through a strategic cloud transformation journey. As your trusted cloud partner, we understand the significance of choosing the right cloud service model. Transitioning from Infrastructure as a Service (IaaS) to Platform as a Service (PaaS), Software as a Service (SaaS), and ultimately to Serverless computing can indeed lead to exponential ROI growth. Let's explore how each step in this progression contributes to driving business value. ",
       },
       {
-        title: "1. Infrastructure as a Service (IaaS): ",
+        title: "Infrastructure as a Service (IaaS): ",
         description:
           "In the IaaS model, businesses rent virtualized computing resources, such as servers, storage, and networking, from a cloud provider. This allows them to avoid upfront hardware investments and maintain more flexibility in managing their infrastructure. Key benefits of IaaS include: ",
       },
       {
-        description:
+        bullets: [
           "Cost Savings: With IaaS, businesses can avoid the costs associated with purchasing and maintaining physical servers and data centers. This pay-as-you-go model ensures cost efficiency.",
-      },
-      {
-        description:
           "Scalability: IaaS allows businesses to scale resources up or down based on demand, ensuring optimal performance during peak periods. ",
-      },
-      {
-        description:
           "Speed and Agility: IaaS enables rapid provisioning of resources, reducing the time required to deploy applications and services. ",
+        ],
       },
       {
-        title: "2. Platform as a Service (PaaS): ",
+        title: "Platform as a Service (PaaS): ",
         description:
           "PaaS takes the benefits of IaaS to the next level by providing a complete development and deployment environment in the cloud. In addition to virtualized infrastructure, PaaS offers development tools, databases, middleware, and more. The advantages of PaaS include: ",
       },
       {
-        description:
+        bullets: [
           "Simplified Development: PaaS abstracts away much of the underlying infrastructure, allowing developers to focus solely on building and deploying applications. ",
-      },
-      {
-        description:
           "Enhanced Collaboration: PaaS fosters collaboration among development teams, enabling them to work on the same platform and share resources seamlessly. ",
-      },
-      {
-        description:
           "Reduced Time-to-Market: The streamlined development process in PaaS leads to faster application development and deployment, resulting in quicker time-to-market. ",
+        ],
       },
       {
-        title: "3. Software as a Service (SaaS): ",
-        description:
+        title: "Software as a Service (SaaS): ",
+        bullets: [
           "In the SaaS model, users access software applications over the internet, typically through a web browser, without the need for local installations. SaaS offers numerous benefits: ",
-      },
-      {
-        description:
           "Lower Total Cost of Ownership: SaaS eliminates the need for on-premises software installations and maintenance, reducing overall IT costs. ",
-      },
-      {
-        description:
           "Scalability and Accessibility: SaaS applications can scale effortlessly to accommodate user demand, and they are accessible from any device with an internet connection.",
-      },
-      {
-        description:
           "Continuous Updates: SaaS providers handle software updates and maintenance, ensuring users always have access to the latest features and security patches. ",
+        ],
       },
+
       {
-        title: "4. Serverless Computing: ",
+        title: "Serverless Computing: ",
         description:
           "Serverless computing, also known as Function as a Service (FaaS), further refines the cloud service model by abstracting away server management completely. In a serverless environment, developers write code as individual functions that run in response to events. The benefits of serverless include: ",
       },
       {
-        description:
+        bullets: [
           "Optimized Resource Utilization: With serverless, you pay only for the execution time of functions, minimizing idle resource costs. ",
-      },
-      {
-        description:
           "Enhanced Scalability: Serverless platforms automatically scale functions in response to incoming events, ensuring seamless performance under varying workloads. ",
-      },
-      {
-        description:
           "Reduced Operations Overhead: Serverless abstracts away infrastructure management, enabling developers to focus purely on application logic. ",
+        ],
       },
+
       {
         description:
           "By transitioning from IaaS to PaaS, SaaS, and finally to Serverless, enterprises can unlock substantial ROI growth due to: ",
       },
       {
-        description:
+        bullets: [
           "Cost Optimization: Each step in the transition reduces operational costs and eliminates unnecessary resource overheads, leading to cost savings.",
-      },
-      {
-        description:
           "Efficiency Gains: As the cloud service model advances, development becomes more streamlined and efficient, resulting in faster time-to-market and reduced time spent on infrastructure management. ",
-      },
-      {
-        description:
           "Scalability and Flexibility: The scalability offered by PaaS, SaaS, and Serverless ensures businesses can dynamically adapt to changing demands without overprovisioning. ",
-      },
-      {
-        description:
           "Focus on Core Competencies: By leveraging higher-level cloud services like SaaS and Serverless, enterprises can focus more on their core business activities and innovation. ",
+        ],
       },
+
       {
         description:
           "At Logixal, we have extensive experience in guiding enterprises through their cloud transformation journey, helping them select the right cloud service model to achieve exponential ROI growth. We take a holistic approach, considering your unique business needs and long-term goals to ensure a successful and rewarding cloud transformation experience. ",
